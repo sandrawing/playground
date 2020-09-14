@@ -1,6 +1,6 @@
 # Playground
 
-CS207
+Xin Zeng is taking CS207
 
 A place to play with `git`.
 
